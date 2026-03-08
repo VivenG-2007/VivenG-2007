@@ -60,11 +60,14 @@
 
 ## 📊 GitHub Stats
 
-![Viven's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=VivenG-2007&theme=tokyonight" height="180"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VivenG-2007&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivenG-2007&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivenG-2007&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
@@ -74,9 +77,9 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/viven-gorantla-19a73b3ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viven-gorantla-19a73b3ab)
 
 ---
 
