@@ -81,10 +81,4 @@
 
 ---
 
-# 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=VivenG-2007&label=Profile%20Views&color=blue&style=for-the-badge)
-
----
-
 ⭐ From [VivenG-2007](https://github.com/VivenG-2007)
