@@ -79,6 +79,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viven-gorantla-19a73b3ab)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25r11a05cm@gcet.edu.in)
+
+
 ---
 
 ⭐ From [VivenG-2007](https://github.com/VivenG-2007)
