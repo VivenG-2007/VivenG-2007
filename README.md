@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viven</h1>
+<h1 align="center">Hi 👋, I'm Viven.G</h1>
 <h3 align="center">🚀 CS Student | Full Stack Developer | DSA Learner</h3>
 
 <p align="center">
