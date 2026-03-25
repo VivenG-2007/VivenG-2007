@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viven Gorantla</h1>
 <h3 align="center">🚀 CS Student | Full Stack Developer | DSA Learner</h3>
+<h5  align="center">Turning Logic into Magic.</h5>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast" />
