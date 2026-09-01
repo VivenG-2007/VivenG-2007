@@ -1,142 +1,136 @@
-<!-- HERO -->
-<p align="center">
-  <img src="./assets/drone.gif" width="500" alt="Animated drone"/>
-</p>
+<h1 align="center">Hi 👋, I'm Viven G</h1>
 
-<h1 align="center">Hello, World! 👋</h1>
+<h3 align="center">🚀 Full Stack Developer • DSA Learner • CS Student</h3>
 
 <p align="center">
-  <b>A passionate Software Engineer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications;Learning+Data+Structures+%26+Algorithms;Exploring+AI+%26+Cloud;Turning+Logic+into+Magic+✨" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Learner;MERN+Stack+Developer;Building+Ideas+Into+Reality"
-    alt="Typing animation"
-  />
+  <img src="https://komarev.com/ghpvc/?username=VivenG-2007&label=Profile%20Views&color=00eaff&style=flat" />
 </p>
 
 ---
 
-<!-- TECH STACK -->
-<h3 align="center">⚡ Tech Stack</h3>
+## 👨‍💻 About Me
+
+- 🎓 CS Student passionate about **problem solving**
+- 💻 Building **Full Stack Web Applications**
+- 🧠 Learning **Data Structures & Algorithms**
+- ⚛️ Working with **MERN, Next.js & React**
+- 🎨 Exploring **GSAP & Three.js**
+- 🤖 Interested in **AI-powered applications**
+- ☁️ Exploring **Cloud & DevOps**
+- 🎯 Goal: Become a strong **Software Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,react,nodejs,express,python,git,github,nextjs,mongodb,tailwind,gsap,threejs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,gsap,threejs" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vercel,npm,vscode" />
 </p>
 
 ---
 
-<!-- ABOUT -->
-<h3 align="center">👨‍💻 About Me</h3>
+## 🌱 Currently Learning
 
 <p align="center">
-  🚀 CS Student • Full Stack Developer • DSA Learner
-</p>
 
-<p align="center">
-  🔭 Building Full Stack Web Applications<br>
-  🧠 Learning Data Structures & Algorithms<br>
-  🌱 Exploring Next.js • GSAP • Three.js<br>
-  ⚡ Turning Logic into Magic<br>
-  🎯 Becoming a strong Software Engineer
+`DSA` • `MERN` • `Next.js` • `AI` • `Cloud` • `DevOps`
+
 </p>
 
 ---
 
-<!-- DRONE -->
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| ☕ **Get Me a Chai** | Full-stack MERN application |
+| 🛡️ **PatchLine** | AI-powered code security & remediation platform |
+| 🎥 **AI Video Platform** | Modern real-time communication platform |
+| 🧩 **DSA Journey** | Algorithmic problem solving & competitive programming |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="./assets/drone-message.svg"
-    width="700"
-    alt="Drone animation"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VivenG-2007&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-<!-- GITHUB STATS -->
-<h3 align="center">📊 GitHub Statistics</h3>
+## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=VivenG-2007&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-<!-- ACTIVITY -->
-<h3 align="center">📈 Contribution Graph</h3>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="Contribution graph"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=VivenG-2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
 </p>
 
 ---
 
-<!-- TROPHIES -->
-<h3 align="center">🏆 Trophies</h3>
+## 🧠 Problem Solving
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=VivenG-2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
-    width="95%"
-    alt="GitHub trophies"
-  />
+  <img src="https://leetcard.jacoblin.cool/VivenG?theme=dark&font=baloo&ext=heatmap" width="500"/>
 </p>
 
 ---
 
-<!-- LEETCODE -->
-<h3 align="center">🦁 LeetCode</h3>
+## 📫 Connect With Me
 
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/VivenG?theme=dark&font=baloo&ext=heatmap"
-    width="500"
-    alt="LeetCode statistics"
-  />
-</p>
 
----
+<a href="https://github.com/VivenG-2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<!-- CONNECT -->
-<h3 align="center">🌐 Connect With Me</h3>
+<a href="https://www.linkedin.com/in/viven-gorantla-19a73b3ab">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/viven-gorantla-19a73b3ab">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/VivenG-2007">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
 </p>
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
 <p align="center">
   <i>Turning Logic into Magic ✨</i>
