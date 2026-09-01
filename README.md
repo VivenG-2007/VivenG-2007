@@ -1,88 +1,143 @@
-<h1 align="center">Hi 👋, I'm Viven G</h1>
-<h3 align="center">🚀 CS Student | Full Stack Developer | DSA Learner</h3>
-<h5  align="center">Turning Logic into Magic.</h5>
+<!-- HERO -->
+<p align="center">
+  <img src="./assets/drone.gif" width="500" alt="Animated drone"/>
+</p>
+
+<h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast" />
+  <b>A passionate Software Engineer</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Learner;MERN+Stack+Developer;Building+Ideas+Into+Reality"
+    alt="Typing animation"
+  />
 </p>
 
 ---
 
-# 💫 About Me
-
-- 🎓 CS Freshman passionate about **problem solving**
-- 💻 Currently building **Full Stack Web Applications**
-- 📚 Learning **Data Structures & Algorithms**
-- 🚀 Goal: Become a strong **Software Engineer**
-
----
-
-# 🌱 Currently Learning
-
-- Data Structures & Algorithms  
-- MERN Stack Development  
-- Next.js  
-- GSAP & Three.js  
-
----
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)
-![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
-
----
-
-## 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## ⚙ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-
----
-
-# 📊 GitHub Stats
+<!-- TECH STACK -->
+<h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VivenG-2007&theme=tokyonight" height="180"/>
+  <img src="https://skillicons.dev/icons?i=c,js,react,nodejs,express,python,git,github,nextjs,mongodb,tailwind,gsap,threejs" />
 </p>
 
 ---
 
-# 🧠 Contribution Graph
+<!-- ABOUT -->
+<h3 align="center">👨‍💻 About Me</h3>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night)
+<p align="center">
+  🚀 CS Student • Full Stack Developer • DSA Learner
+</p>
+
+<p align="center">
+  🔭 Building Full Stack Web Applications<br>
+  🧠 Learning Data Structures & Algorithms<br>
+  🌱 Exploring Next.js • GSAP • Three.js<br>
+  ⚡ Turning Logic into Magic<br>
+  🎯 Becoming a strong Software Engineer
+</p>
 
 ---
 
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viven-gorantla-19a73b3ab)
-
+<!-- DRONE -->
+<p align="center">
+  <img
+    src="./assets/drone-message.svg"
+    width="700"
+    alt="Drone animation"
+  />
+</p>
 
 ---
 
-⭐ From [VivenG-2007](https://github.com/VivenG-2007)
+<!-- GITHUB STATS -->
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VivenG-2007&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+<!-- ACTIVITY -->
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="Contribution graph"
+  />
+</p>
+
+---
+
+<!-- TROPHIES -->
+<h3 align="center">🏆 Trophies</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=VivenG-2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
+    width="95%"
+    alt="GitHub trophies"
+  />
+</p>
+
+---
+
+<!-- LEETCODE -->
+<h3 align="center">🦁 LeetCode</h3>
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/VivenG?theme=dark&font=baloo&ext=heatmap"
+    width="500"
+    alt="LeetCode statistics"
+  />
+</p>
+
+---
+
+<!-- CONNECT -->
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/viven-gorantla-19a73b3ab">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/VivenG-2007">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+<p align="center">
+  <i>Turning Logic into Magic ✨</i>
+</p>
