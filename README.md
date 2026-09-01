@@ -77,11 +77,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VivenG-2007&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com?user=VivenG-2007&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="180"
+  />
 </p>
 
 ---
@@ -89,7 +95,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+  />
 </p>
 
 ---
@@ -97,7 +106,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VivenG-2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=VivenG-2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
+    width="95%"
+  />
 </p>
 
 ---
@@ -105,7 +117,7 @@
 ## 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/VivenG?theme=dark&font=baloo&ext=heatmap" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/m5oBHEqoAY?theme=dark&font=baloo&ext=heatmap" width="500"/>
 </p>
 
 ---
