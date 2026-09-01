@@ -85,7 +85,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=VivenG_2007&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://streak-stats.demolab.com?user=VivenG-2007&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="180"
   />
 </p>
@@ -96,7 +96,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG_2007&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night&hide_border=true&area=true"
     width="95%"
     alt="Viven G Contribution Graph"
   />
@@ -108,7 +108,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=VivenG_2007&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=VivenG-2007&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"
     width="95%"
     alt="Viven G GitHub Trophies"
   />
