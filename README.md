@@ -87,17 +87,19 @@ class Viven:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VivenG-2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivenG-2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivenG-2007&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=VivenG-2007&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VivenG-2007&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VivenG-2007&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img width="95%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VivenG-2007&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VivenG-2007&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VivenG-2007&theme=tokyonight&utcOffset=5.5" width="49%" />
 </p>
+
 
 ## 🐍 Contribution Snake
 
