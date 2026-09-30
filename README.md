@@ -110,7 +110,9 @@ class Viven:
 ## 🏆 Trophies
 
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=VivenG-2007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://img.shields.io/badge/🏅_AWS-Cloud_Practitioner-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_SGPA-9.58-00F7FF?style=for-the-badge&labelColor=222" />
+  <img src="https://img.shields.io/badge/🚀_Projects-Multiple_Shipped-7B2FF7?style=for-the-badge" />
 </p>
 
 ## 🧠 Problem Solving
